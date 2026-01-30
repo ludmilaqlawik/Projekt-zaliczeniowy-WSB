@@ -7,4 +7,4 @@
 
 2. Otwórz: Projekt_zaliczeniowy_WSB.ipynb
 
-Dane znajdują się w folderze `data/`.
+3. Dane znajdują się w folderze `data/`.
