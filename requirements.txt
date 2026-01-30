@@ -1,6 +1,8 @@
-pandas
+pandas (łączenie plików, czyszczenie/analiza tabel)
 numpy
-matplotlib
-regex
-spacy
-nltk
+matplotlib (wykres w części 4)
+regex (wbudowany)
+spacy (NER: osoby/miejsca/organizacje)
+nltk (stopwords – próbowałam, choć PL ostatecznie w tym środowisku nie zadziałało)
+stopwordsiso (finalnie użyte do polskich stopwords)
+pl-core-news-sm (model języka polskiego używany do NER)
